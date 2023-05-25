@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+aff4780779e2b3286a6763c231f12a24 CMakeFiles/clean_test_results
+7d3113886a66ca8413c65fc008b878f7 CMakeFiles/udacity_bot_generate_messages_eus
+9fb5716f36819147ce159bef1b82bb40 devel/share/roseus/ros/udacity_bot/manifest.l

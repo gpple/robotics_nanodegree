@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lginnotek/catkin_ws/src/udacity_bot/devel/setup.sh
